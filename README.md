@@ -1,8 +1,5 @@
 
-  <a href="https://github.com/MrPand-21/HRMS_Frontend">
-    <img src="https://github.com/MrPand-21/MrPand-21/blob/main/HRMS.png" height="160" alt="HRMS">
-  </a>
-  <h3>HRMS_Frontend</h3>
+  <h3>HR_System</h3>
 
   <p align="center">
     <a href="#about-the-project">About</a> •
@@ -10,8 +7,7 @@
     <a href="#installation">Installation</a> •
     <a href="#credits">Credits</a> •
     <a href="#learn-more">Learn More</a> •
-    <a href="https://github.com/MrPand-21/HRMS_Frontend/issues">Report Bug</a> •
-    <a href="https://github.com/MrPand-21/HRMS_Frontend/issues">Request Feature</a>
+  
   </p>
   <h4 align="center">HRMS Frontend project which was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a> and <a href="https://semantic-ui.com/">Semantic UI</a>.
   </h4>
