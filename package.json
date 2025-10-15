@@ -2,6 +2,7 @@
   "name": "hrms-project",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://Somii17.github.io/HRMS_Frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -18,7 +19,7 @@
     "web-vitals": "^1.1.2",
     "yup": "^0.32.9"
   },
-  "homepage": "https://Somii17.github.io/HRMS_Frontend",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
