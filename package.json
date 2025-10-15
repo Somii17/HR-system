@@ -18,9 +18,12 @@
     "web-vitals": "^1.1.2",
     "yup": "^0.32.9"
   },
+  "homepage": "https://Somii17.github.io/HR-system",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
