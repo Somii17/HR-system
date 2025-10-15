@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://github.com/MrPand-21/HRMS_Frontend/graphs/contributors"><img src="https://img.shields.io/github/contributors/MrPand-21/HRMS_Frontend.svg?style=for-the-badge"></a>
-  <a href="https://github.com/MrPand-21/HRMS_Frontend/network/members"><img src="https://img.shields.io/github/forks/MrPand-21/HRMS_Frontend.svg?style=for-the-badge"></a>
-  <a href="https://github.com/MrPand-21/HRMS_Frontend/stargazers"><img src="https://img.shields.io/github/stars/MrPand-21/HRMS_Frontend.svg?style=for-the-badge"></a>
-  <br/>
-  <br/>
+
   <a href="https://github.com/MrPand-21/HRMS_Frontend">
     <img src="https://github.com/MrPand-21/MrPand-21/blob/main/HRMS.png" height="160" alt="HRMS">
   </a>
