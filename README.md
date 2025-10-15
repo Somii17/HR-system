@@ -1,14 +1,6 @@
 
   <h3>HR_System</h3>
-
-  <p align="center">
-    <a href="#about-the-project">About</a> •
-    <a href="#usage">How To Use</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#credits">Credits</a> •
-    <a href="#learn-more">Learn More</a> •
   
-  </p>
   <h4 align="center">HRMS Frontend project which was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a> and <a href="https://semantic-ui.com/">Semantic UI</a>.
   </h4>
 </div>
